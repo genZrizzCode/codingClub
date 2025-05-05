@@ -1,0 +1,13 @@
+Custom License for Coding Club
+Copyright © genZrizzCode 2025
+
+You may:
+- View, copy, and modify this code for personal, educational, or non-commercial use,
+  only if proper credit is given to the original author.
+
+You may NOT:
+- Sell or use this code commercially.
+- Sublicense, re-license, or redistribute this code without written permission.
+
+If you wish to use this code beyond these terms, contact me at https://github.com/genZrizzCode.
+If I don't respond it is a no.
