@@ -4,6 +4,8 @@ Coding Club Website
 
 🔒 License: Custom (see LICENSE.txt for details)
 
+---
+
 
 # 📚 School Coding Club Website
 
