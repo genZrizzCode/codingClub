@@ -35,6 +35,7 @@ Check out the live website here:
 3. Commit your changes: `git commit -m "Add new feature"`
 4. Push to your branch: `git push origin feature-name`
 5. Open a pull request
+   (DOn't use Yarn for git commands)
 
 We welcome contributions from all current club members!
 
