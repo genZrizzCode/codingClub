@@ -19,7 +19,7 @@
     while (true) {
       const randomString = getRandomString(specialCharsArray);
       document.getElementById('special-Char-Loop').innerHTML = randomString;
-      await sleep(500); // wait 0.5 seconds
+      await sleep(250); // wait 0.25 seconds
     }
   })();
 })();
