@@ -13,9 +13,9 @@ body {
     font-size: 2em;
 }
 @keyframes breathe {
-  0%   { transform: scale(1.1); }
+  0%   { transform: scale(1); }
   50%  { transform: scale(1.15); }
-  100% { transform: scale(1.1); }
+  100% { transform: scale(1); }
 }
 .weirdahh {
   display: inline-block;
@@ -24,7 +24,6 @@ body {
 }
 .weirdahh:hover {
   animation: breathe 1.5s ease-in-out infinite;
-  transform: scale(1.1);
 }
 .smallButMighty { 
     display: inline-block; /* or block */
