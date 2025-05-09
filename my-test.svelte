@@ -1,3 +1,4 @@
+<!-- Run in https://svelte.dev/playground -->
 <script>
   let name = prompt('What is your name?');
 </script>
