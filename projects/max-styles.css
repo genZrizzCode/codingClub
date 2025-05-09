@@ -20,14 +20,13 @@ body {
 .weirdahh {
   display: inline-block;
   transform-origin: left center;
-  transition: transform 3s ease;
+  transition: transform 1.5s ease;
 }
 .weirdahh:hover {
-  animation: breathe 1.5s ease-in-out infinite;
+  animation: breathe 3s ease-in-out infinite;
 }
 .weirdahh:not(:hover) {
     transform: scale(1);
-}
 }
 .smallButMighty { 
     display: inline-block; /* or block */
