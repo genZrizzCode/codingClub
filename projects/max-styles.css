@@ -17,16 +17,14 @@ body {
   50%  { transform: scale(1.15); }
   100% { transform: scale(1.1); }
 }
-
 .weirdahh {
   display: inline-block;
   transform-origin: left center;
-  transition: transform 1s ease;
+  transition: transform 0.5s ease;
 }
-
-.weirdahh.scaled {
+.weirdahh:hover {
+  animation: breathe 1.5s ease-in-out infinite;
   transform: scale(1.1);
-  animation: breathe 5s ease-in-out infinite;
 }
 .smallButMighty { 
     display: inline-block; /* or block */
