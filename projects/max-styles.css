@@ -20,7 +20,7 @@ body {
 .weirdahh {
   display: inline-block;
   transform-origin: left center;
-  transition: transform 0.5s ease;
+  transition: transform 3s ease;
 }
 .weirdahh:hover {
   animation: breathe 1.5s ease-in-out infinite;
