@@ -30,12 +30,8 @@ Check out the live website here:
 
 ## 👩‍💻 How to Contribute
 
-1. Fork this repository
-2. Create a new branch: `git checkout -b feature-name`
-3. Commit your changes: `git commit -m "Add new feature"`
-4. Push to your branch: `git push origin feature-name`
-5. Open a pull request
-   (Don't use Yarn for git commands)
+1. Send me the files via Google Drive (I will send you the link)
+2. I will add it myself in /projects/ folder
 
 We welcome contributions from all current club members!
 
