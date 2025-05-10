@@ -12,21 +12,13 @@ body {
 .upsizesan {
     font-size: 2em;
 }
-@keyframes breathe {
-  0%   { transform: scale(1); }
-  50%  { transform: scale(1.15); }
-  100% { transform: scale(1); }
-}
 .weirdahh {
   display: inline-block;
   transform-origin: left center;
-  transition: transform 1.5s ease;
+  transition: transform 1.5s ease-in-out;
 }
 .weirdahh:hover {
-  animation: breathe 3s ease-in-out infinite;
-}
-.weirdahh:not(:hover) {
-    transform: scale(1);
+  transform: scale(1.125);
 }
 .smallButMighty { 
     display: inline-block; /* or block */
