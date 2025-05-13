@@ -53,5 +53,5 @@ img {
   transition: filter 0.3s ease;
 }
 img:hover {
-  filter: drop-shadow(10px 10px 20px rgba(36, 36, 36, 0.5));
+  filter: drop-shadow(0px 0px 30px rgba(0, 0, 0, 0.55));
 }
