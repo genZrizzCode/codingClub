@@ -37,7 +37,7 @@
   transform: scale(1.025);
 }
 
-@media (min-width: 768px) {
+@media (pefers-color-scheme: dark; min-width: 768px;) {
   .button-1 {
     font-size: 1.5rem;
     padding: .75rem 2rem;
