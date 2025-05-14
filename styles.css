@@ -42,7 +42,7 @@
     padding: .75rem 2rem;
   }
 }
-@media (pefers-color-scheme: dark) {
+@media (prefers-color-scheme: dark) {
   html {
     background-color: #171717;
   }
