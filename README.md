@@ -23,7 +23,7 @@ Check out the live website here:
 
 ## 🗃️: Important Files
 
-- [Unblocked Links](./unblocked.txt)
+- [Unblocked Links](./secondary.txt)
 
 ---
 ## 🚀 Features
