@@ -1,4 +1,4 @@
-# codingClub
+# codingClub_AMS
 Coding Club Website
 
 
