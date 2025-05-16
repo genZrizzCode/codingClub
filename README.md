@@ -17,7 +17,7 @@ This site is built and maintained by club members to showcase our projects, shar
 ## 🌐 Live Site
 
 Check out the live website here:  
-👉 [Coding Club!](https://genzrizzcode.github.io/codingClub/)
+👉 [Coding Club!](https://genzrizzcode.github.io/codingClub_AMS/)
 
 ---
 
